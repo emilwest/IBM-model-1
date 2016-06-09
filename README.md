@@ -10,6 +10,8 @@ or:
 
 java IBM corpus.en corpus.sv
 
+or any two corpora ending in .eng /.en and .sv /.swe
+
 # What is this?
 This is a java implementation of the first IBM model, a statistical alignment algorithm used in machine translation to predict 
 the most probable English word e given a foreign word f.</p>
